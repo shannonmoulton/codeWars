@@ -1,4 +1,8 @@
-
+function repeatStr (str, num){
+  let finalStr = (`${str.repeat(num)}`)
+  return finalStr
+  }
+  console.log(repeatStr('pink', 5));
 
 
 
