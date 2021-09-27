@@ -1,0 +1,5 @@
+function century(year) {
+    let century = Math.ceil((year * 10) /1000)
+    return century
+  }
+//https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
