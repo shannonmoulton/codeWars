@@ -8,4 +8,5 @@ function well(x) {
         return 'I smell a series!'
     }
 }
+
 // https://www.codewars.com/kata/57f222ce69e09c3630000212
